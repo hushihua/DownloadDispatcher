@@ -26,7 +26,7 @@ import android.content.Intent;
  */
 public class DownLoadBoradcastSender {
 
-	public static String REFRESH_DOWNLOAD_LIST_ACTION = "android.library.framework.download:REFRESH_CACHE_LIST";
+	public static String REFRESH_DOWNLOAD_LIST_ACTION = "android.library.framework.download:REFRESH_CACHE_LIST_asdfdsfsd";
 	public static String DOWNLOAD_ITEM_FINISH_ACTION = "android.library.framework.download:ITEM_FINISH";
 
 	public static void sendRefreshDownloadCacheBroadcast(Context context) {
